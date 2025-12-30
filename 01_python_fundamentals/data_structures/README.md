@@ -41,3 +41,7 @@ Concepts:
 
 ## Goal of These Projects
 The goal of these projects was to understand when and why to use different data structures and how data structure choice affects program design.
+
+## What I struggled with
+When using dictionaries in list I sturggles with accessing the key and values in the dictionary when trying to use a loop. 
+
